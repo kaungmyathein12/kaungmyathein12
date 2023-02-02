@@ -1,6 +1,6 @@
 ## Hi, I'm Kaung Myat Hein.
 
-- Ask me about Java, JavaScript and NodeJS.
+- Ask me about JavaScript and NodeJS.
 - Frontend Developer at Idea Offshore.
 - Fun fact: I'm an Ambivert.
 
