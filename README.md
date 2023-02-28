@@ -1,7 +1,8 @@
 ## Hi, I'm Kaung Myat Hein.
 
-- Ask me about JavaScript and NodeJS.
+- Ask me about JavaScript, React and NodeJS.
 - Currently working as a Frontend Developer at Idea Offshore.
+- Fromer Frontend Developer at Xsphere
 - Fun fact: I'm an Ambivert.
 
 [![My Skills](https://skillicons.dev/icons?i=java,bootstrap,tailwindcss,materialui,javascript,typescript,react,electron,redux,nextjs,vue,firebase,php,nodejs,express,mongodb,py,mysql,postgres,prisma,heroku,git,figma)](https://skillicons.dev)
