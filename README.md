@@ -1,5 +1,6 @@
 ## Hi, I'm Kaung Myat Hein.
 
+- Currently learning Design Patterns and DSA.
 - Ask me about JavaScript, React and NodeJS.
 - Currently working as a Frontend Developer at Idea Offshore.
 - Ambivert and Animal Lover.
