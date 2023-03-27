@@ -1,9 +1,7 @@
 ## Hi, I'm Kaung Myat Hein.
 
-- I'm currently learning Java, Design Patterns and DSA.
+- I'm currently learning Java and Design Patterns.
 - Ask me about JavaScript, React.js and Node.js.
-- I'm currently working as a Frontend Developer at Idea Offshore.
-- Ambivert and Animal Lover.
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,javascript,typescript,react,electron,redux,nextjs,vue,firebase,php,nodejs,express,mongodb,py,mysql,postgres,prisma,heroku,git,figma)](https://skillicons.dev)
 
