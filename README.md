@@ -1,7 +1,5 @@
 ## Hi, I'm Kaung Myat Hein.
 
-
-- Frontend Developer at Idea Offshore software house.
 - currently learning Java and Design Patterns.
 - Ask me about JavaScript, React.js and Node.js.
 
