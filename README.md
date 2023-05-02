@@ -1,5 +1,6 @@
 ## Hi, I'm Kaung Myat Hein.
 
+- Frontend Developer at @sgcodigo.
 - currently learning Java and Design Patterns.
 - Ask me about JavaScript, React.js and Node.js.
 
