@@ -1,6 +1,6 @@
 ## Hi, I'm Kaung Myat Hein.
 
-- Frontend Developer at Codigo - The Mobile App Company.
+- Frontend Developer at <strong>Codigo - The Mobile App Company</strong>.
 - Currently learning DataStructure and Algorithms.
 - Ask me about JavaScript, React.js and Node.js.
 
