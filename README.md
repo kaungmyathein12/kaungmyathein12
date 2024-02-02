@@ -1,10 +1,2 @@
-## Hi, I'm Kaung Myat Hein.
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,express,mongodb,mysql,postgres,aws)](https://skillicons.dev)
 
-- Frontend Developer at <strong>Codigo - The Mobile App Company</strong>.
-- Currently learning DataStructure and Algorithms.
-- Ask me about JavaScript, React.js and Node.js.
-
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,javascript,typescript,react,electron,redux,nextjs,vue,firebase,php,nodejs,express,mongodb,py,mysql,postgres,prisma,heroku,git,figma)](https://skillicons.dev)
-
-
-[![Top Langs](https://github-readme-stats-beryl-gamma-75.vercel.app/api/top-langs/?username=kaungmyathein12&layout=compact&theme=react&bg_color=161B22&border_color=161B22&title_color=ffffff&private=true&hide=pug,html,css)](https://github.com/anuraghazra/github-readme-stats)
